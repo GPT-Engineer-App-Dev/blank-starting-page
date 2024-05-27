@@ -15,10 +15,10 @@ const Index = () => {
     <Container centerContent maxW="container.md" height="100vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center">
       <VStack spacing={6}>
         <Heading as="h1" size="2xl" textAlign="center">
-          Welcome to Our Landing Page
+          Welcome to the Admin Dashboard
         </Heading>
         <Text fontSize="lg" textAlign="center">
-          Discover our amazing product and services. We offer the best solutions for your needs.
+          Use the navigation bar to access different sections of the dashboard.
         </Text>
         <Box boxSize="sm">
           <Image src="https://via.placeholder.com/400" alt="Placeholder Image" borderRadius="md" />
