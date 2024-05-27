@@ -22,6 +22,11 @@ const Navbar = () => {
               Analytics
             </Button>
           </RouterLink>
+          <RouterLink to="/reactions-management">
+            <Button variant={"link"} mr={4}>
+              Reactions Management
+            </Button>
+          </RouterLink>
         </Flex>
       </Flex>
     </Box>
